@@ -13,6 +13,6 @@ if($quiryrun){
     </script>
     <?php
 }else{
-    echo "delete Failed";
+    echo "delete Failed !!";
 }
 ?>
